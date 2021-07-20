@@ -1,3 +1,5 @@
+-- they disabled IY's site :(
+
 if IY_LOADED and not _G.IY_DEBUG == true then
 	error("Infinite Yield is already running!",0)
 	return
